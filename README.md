@@ -9,7 +9,7 @@ In this project, I used VBA scripting to analyze generated stock market data.
 
 
 ## Project Content
-- Contains one .xslm file that analyse the generated stock market data;
+- Contains one .xslm file that analyse the generated stock market data.
 
 
 ## Note

@@ -9,8 +9,9 @@ In this project, I used VBA scripting to analyze generated stock market data.
 
 
 ## Project Content
-- Contains one .xslm file that analyse the generated stock market data.
-- Three screenshots of the result of 2018, 2019 and 2020.
+- Contains one .xslm file that analyse the generated stock market data;
+- Three screenshots of the result of 2018, 2019 and 2020;
+- One VBA script file that cointains the codes.
 
 
 ## Note
